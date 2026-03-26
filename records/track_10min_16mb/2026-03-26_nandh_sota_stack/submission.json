@@ -1,0 +1,11 @@
+{
+  "author": "Raj Nandhu",
+  "github_id": "NandhuRajRK",
+  "name": "SOTA-Chasing Mixed Int5/Int6 + BigramHash + SmearGate + SWA",
+  "blurb": "Runnable scaffold for a public-leaderboard style Parameter Golf stack: 10L, 3x MLP, BigramHash(10240), SmearGate, mixed int5/int6 export, WD, SWA, fp16 embedding export, and sliding eval.",
+  "date": "2026-03-26",
+  "val_loss": 0.0,
+  "val_bpb": 0.0,
+  "bytes_total": 0,
+  "bytes_code": 0
+}
