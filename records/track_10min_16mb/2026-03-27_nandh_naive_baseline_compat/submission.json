@@ -1,0 +1,10 @@
+{
+  "author": "Raj Nandhu",
+  "github_id": "NandhuRajRK",
+  "name": "Naive Baseline Compat Control",
+  "blurb": "A compatibility-only control derived from the public naive baseline, patched to run on the current pod image for sanity-checking.",
+  "date": "2026-03-27T00:00:00Z",
+  "val_loss": 0.0,
+  "val_bpb": 0.0,
+  "bytes_total": 0
+}
